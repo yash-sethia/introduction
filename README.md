@@ -1,7 +1,7 @@
 ## Hey! I'm Yash Sethia ✌️
 ### I'm an Tech enthusiast based in Delhi, India.
 - 👨‍🎓 I'm an Computer Science engineering student at **NSUT (earlier NSIT), Delhi**.
-- 💡 I'm **currently exploring** Deep Learning and Blockchain.
+- 💡 I'm **currently exploring** Deep Learning and the FinTech space.
 - 💬 **Love to discuss** MERN stack, Javascript, finance and upcoming start ups. 
 - 😄 **Pronouns**: He/His
 ### 🌐 Connect with me : 
